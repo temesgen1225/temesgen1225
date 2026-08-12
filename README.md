@@ -1,11 +1,11 @@
-## Hi there 👋
+<h1> ## Hi there 👋 </h1>
 I'm a software developer focused on building modern, scalable and practical applications.
 
 My main area of development is the JavaScript/TypeScript ecosystem, especially React, Node.js, Express, NestJS and PostgreSQL.
 
 I also explore mobile development, DevOps, cloud deployment and other technologies that help me become a better engineer.
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 💻 Languages
 <p> <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css,c++" /> </p>
 🎨 Frontend
@@ -19,7 +19,7 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 📱 Mobile & Design
 <p> <img src="https://skillicons.dev/icons?i=flutter,figma,photoshop" /> </p>
 
-📊 GitHub Statistics
+<h1>📊 GitHub Statistics</h1>
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=temesgen1225&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen1225&layout=compact&hide_border=true&langs_count=8" /> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=temesgen1225&hide_border=true" /> </div>
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=temesgen1225&hide_border=true&area=true" /> </div>
