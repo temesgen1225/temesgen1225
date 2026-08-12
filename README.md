@@ -24,6 +24,43 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=temesgen1225&hide_border=true&area=true" /> </div>
 
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/Henok-SE"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/henok-assefa-1715593a8"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://personal-website-tau-dun.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+⚡ Fun Fact
+<div align="center">
+⭐ If you find my work interesting, consider giving my repositories a star!
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div> ```
+🔥 What this gives your profile
+
+Your profile will have a much stronger structure:
+
+Header
+→ Name + title + profile statistics
+
+Animated introduction
+→ Full-Stack Developer / React / Node.js / PostgreSQL
+
+About Me
+→ Short professional introduction
+
+Tech Stack
+→ Languages → Frontend → Backend → Database → DevOps → Mobile
+
+Featured Projects
+→ Your actual projects rather than just a list of technologies
+
+GitHub Stats
+→ Contributions, languages and activity
+
+Learning
+→ Shows that you're actively developing your skills
+
+Development Philosophy
+→ Gives the profile some personality
+
+Socials
+→ GitHub + LinkedIn + portfolio + email
+
 <!--
 **temesgen1225/temesgen1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
