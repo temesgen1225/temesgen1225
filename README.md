@@ -15,7 +15,7 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 🗄️ Databases
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase,firebase" /> </p>
 🐳 DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,railway,postman" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" /> </p>
 📱 Mobile & Design
 <p> <img src="https://skillicons.dev/icons?i=flutter,figma,photoshop" /> </p>
 
