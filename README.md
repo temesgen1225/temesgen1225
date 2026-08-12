@@ -7,13 +7,13 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 
 🛠️ Tech Stack
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java,cpp,cs,html,css" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=c#,js,ts,python,java,cpp,cs,html,css,c++" /> </p>
 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer,webgl,linen,threejs,bootstrap" /> </p>
 ⚙️ Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django" /> </p>
 🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase,firebase" /> </p>
 🐳 DevOps & Tools
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,railway,postman" /> </p>
 📱 Mobile & Design
@@ -25,7 +25,7 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=temesgen1225&hide_border=true&area=true" /> </div>
 
 🌐 Connect With Me
-<div align="center"> <a href="https://github.com/Henok-SE"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/henok-assefa-1715593a8"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://personal-website-tau-dun.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://github.com/temesgen1225"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/henok-assefa-1715593a8"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://personal-website-tau-dun.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:temesgennigu@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 ⚡ Fun Fact
 <div align="center">
 ⭐ If you find my work interesting, consider giving my repositories a star!
