@@ -7,7 +7,7 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 
 🛠️ Tech Stack
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=c#,js,ts,python,java,cpp,cs,html,css,c++" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css,c++" /> </p>
 🎨 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer,webgl,linen,threejs,bootstrap" /> </p>
 ⚙️ Backend
