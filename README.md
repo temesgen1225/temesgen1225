@@ -7,17 +7,17 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 
 <h1>🛠️ Tech Stack</h1>
 💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css,c++" /> </p>
+<h3> <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,html,css,c++" /> </h3>
 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" /> </p>
+<h3> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" /> </h3>
 ⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django" /> </p>
+<h3> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django" /> </h3>
 🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase,firebase" /> </p>
+<h3> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase,firebase" /> </h3>
 🐳 DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" /> </p>
+<h3> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" /> </h3>
 📱 Mobile & Design
-<p> <img src="https://skillicons.dev/icons?i=flutter,figma,photoshop" /> </p>
+<h3> <img src="https://skillicons.dev/icons?i=flutter,figma,photoshop" /> </h3>
 
 <h1>📊 GitHub Statistics</h1>
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=temesgen1225&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temesgen1225&layout=compact&hide_border=true&langs_count=8" /> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=temesgen1225&hide_border=true" /> </div>
@@ -25,7 +25,10 @@ I also explore mobile development, DevOps, cloud deployment and other technologi
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=temesgen1225&hide_border=true&area=true" /> </div>
 
 🌐 Connect With Me
-<div align="center"> <a href="https://github.com/temesgen1225"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/henok-assefa-1715593a8"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://personal-website-tau-dun.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:temesgennigu@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://github.com/temesgen1225"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="temesgen-nigussie-8780433a9" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://et.linkedin.com/in/temesgen-nigussie-8780433a9?trk=profile-badge">Temesgen Nigussie</a></div>
+              
+  <a href="https://personal-website-tau-dun.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:temesgennigu@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 ⚡ Fun Fact
 <div align="center">
 ⭐ If you find my work interesting, consider giving my repositories a star!
